@@ -1,3 +1,4 @@
+// https://web-server-moo6.onrender.com/ is the prod env
 const hbs = require('hbs')
 const path = require('path')
 const express = require('express')
